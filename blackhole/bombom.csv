@@ -1,0 +1,9 @@
+"ID","gender","age","salary","ques1","ques2","ques3","ques4","ques5"
+001,"Male","less than 30","$28,000","Strongly disagree","Disagree","Strongly disagree","Disagree","No opinion"
+002,"Female","51+","$76,123","Agree","Strongly agree","Disagree","Strongly disagree","Strongly disagree"
+003,"Male","30 to 50","$36,500","Disagree","Disagree","Disagree","Disagree","Strongly disagree"
+004,"Female","51+","$128,000","Strongly agree","No opinion","Disagree","Disagree","Agree"
+005,"Male","less than 30","$23,060","No opinion","No opinion","No opinion","Agree","Disagree"
+006,"Male","51+","$90,000","Disagree","No opinion","Strongly agree","Agree","No opinion"
+007,"Female","30 to 50","$76,100","Strongly agree","No opinion","Agree","No opinion","No opinion"
+
