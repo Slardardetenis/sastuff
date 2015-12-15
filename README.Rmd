@@ -1,3 +1,0 @@
-# My SAS files
-
-In this repository you can find all programs that I have made at file "progsaves" 
